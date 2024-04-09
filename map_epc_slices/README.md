@@ -1,4 +1,4 @@
-I never scripted this process.
+I never fully automated the process of pre-computing the cache slices.
 The file in SampleEnclave/pfn2slice contains the final output.
 To generate this, I ran something like
 ```
